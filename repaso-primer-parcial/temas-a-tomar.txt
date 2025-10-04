@@ -1,0 +1,26 @@
+PARCIAL DAVID
+
+5 ejercicios. 4 son de codigo
+
+Seguro hay algo de insertar en arreglos no ordenados.
+
+Puede que no haya algo de eliminar un arreglo.
+
+ARREGLOS:
+
+  - Insertar al final
+  - Eliminar
+  - Recorrer
+  - Informar (recorrerlo haciendo algo con la info)
+
+MATRICES:
+
+  - Recorrer
+  - Informar
+
+STRUCTS:
+
+  - Crear
+  - Inicializar arreglos con STRUCTS
+  - Informar
+  - Puede que haya struct dentro de struct
